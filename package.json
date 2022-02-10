@@ -11,7 +11,7 @@
     "jss": "^10.0.0-alpha.3",
     "mdbreact": "^4.9.0",
     "mui-datatables": "^2.0.0-beta.59",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.7.0",
     "react-chartjs-2": "^2.7.4",
     "react-dom": "^16.7.0",
